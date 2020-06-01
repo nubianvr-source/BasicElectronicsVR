@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2704336688
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4935e2ec1d9b30d6598871e74cbfdaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 818017ed49014c92525306db48909f3e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8faff297627c8342b0daf6cb33050b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Game/GameEvents.asset
+- Assets/Fonts/Objectivity-Bold SDF.asset
+- Assets/Oculus/SampleFramework/Core/DistanceGrab/Mesh/GrabConeVolume.asset
+Dependencies:
+- C:/Users/Anspeed/Documents/GitHub/ProjectKonko/OVRAssetBundles/OVRMasterBundle/asset_resources

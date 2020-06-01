@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2660776797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7d226cafed5e601bd11a97922339dab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9533ec91352ac8573a011616e38420f1
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Videos/VR_flashlight.mp4
+- Assets/Videos/intro 360.mp4
+- Assets/Videos/End explainer.mp4
+- Assets/Videos/Electric Current.mp4
+- Assets/Videos/INtro.mp4
+Dependencies: []

@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 116865836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d1322000a2439f67fc0e4aec551234f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/3DModels/bulb_off.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/room_atlas_02_msm.png
+- Assets/Textures/Buttons/possible answers two liner click-49.png
+- Assets/Textures/MISC/nubianvr-black.png
+- Assets/Textures/UIAssets/BasicElectronicsLogo.png
+- Assets/Textures/Buttons/possible answers one liner normal-38.png
+- Assets/Textures/dialogue boxes and containers/ScientistImage.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/room_atlas_02_emi.png
+- Assets/Textures/Side panel circuit state interface/element-72.png
+- Assets/Textures/Side panel circuit state interface/element-76.png
+- Assets/Textures/UIAssets/CloseMenuBtn.png
+- Assets/Textures/Controls/Next normal-18.png
+- Assets/Textures/dialogue boxes and containers/wrong answer dialogue box-43-44.png
+- Assets/Textures/Side panel circuit state interface/element-61.png
+- Assets/Textures/Side panel circuit state interface/element-65.png
+- Assets/Textures/UIAssets/LessonsBtn.png
+- Assets/Textures/Controls/Next hover-10.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Front+Z.png
+- Assets/Models/3DModels/bulb_on.png
+- Assets/Textures/UIAssets/NormalBtnState.png
+- Assets/Textures/UIAssets/Pause.png
+- Assets/Textures/Buttons/Begin Adventure-03.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Down-Y.png
+- Assets/Textures/Controls/back click-08.png
+- Assets/Textures/dialogue boxes and containers/Question dialogue box wide-34.png
+- Assets/Models/3DModels/UV_map_body.png
+- Assets/Textures/dialogue boxes and containers/Hello welcome message-05.png
+- Assets/Models/3DModels/UV_on.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/room_atlas_02_nml.png
+- Assets/Textures/Side panel circuit state interface/element-70.png
+Dependencies: []

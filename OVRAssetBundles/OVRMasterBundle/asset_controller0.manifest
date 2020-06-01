@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2620609137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8021c353839dad5e2a7f34b5d17a8e21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+- Assets/Animations/Timer/Timer.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/Animations/ScreenTransitions/BaseAnimations/Base_ScreenController.controller
+- Assets/Animations/ResolutionScreen/ResolutionScreen.controller
+Dependencies:
+- C:/Users/Anspeed/Documents/GitHub/ProjectKonko/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Anspeed/Documents/GitHub/ProjectKonko/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Anspeed/Documents/GitHub/ProjectKonko/OVRAssetBundles/OVRMasterBundle/asset_anim0

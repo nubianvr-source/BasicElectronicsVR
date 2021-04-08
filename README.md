@@ -1,9 +1,5 @@
-# Project Konko
-Project Konko is an Open Source Virtual Reality lesson creator built in Unity and designed primarily for the Oculus Go. It seeks to provide the tools that will allow developers, creators and educators to:
-- deploy 2D & 360 video lessons in Virtual Reality
-- manipulate 3D object in Virtual Reality environments
-- build multiple choice lesson assessment in Virtual Reality
-- maintain a badge & leaderboard functionality for Virtual Reality lessons.
+# Basic Electronics VR
+Baisc Electronics VR is a 6 module VR experience built atop using the Project Konko Unity Framework (https://github.com/nubianvr-source/ProjectKonko)
 
 ## Getting Started
 
